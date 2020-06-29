@@ -94,7 +94,7 @@ def youtube_bot(page,link,download_dir):
 
 
 def main():
-    page = input("Insert the page which perform convertion from video to Mp3 through Youtube platform")
+    page = input("Insert the page which perform conversion from video to Mp3 through Youtube platform")
     archive = input("Insert the path where the links are: ")
     #page = "https://www.youtube2mp3.net/"
     #archive =r"C:\Users\Gustavo\Music\mp3\musicas.txt"
